@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="MFGtYKwtQJpombqqXQAc">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Speaker Cables" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="238" y="8" width="794" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Speaker System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="245" width="723" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Network Cables" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="238" y="482" width="794" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Devices" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="637" width="166" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Networking Gear" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="669" width="1203" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Modem" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="78" y="779" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Router" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="583" y="781" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Switch" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="704" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Access Point" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="817" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Smartphone" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1286" y="672" width="116" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Laptop" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1305" y="778" width="79" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Desktop" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1301" y="876" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Smart TV" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1297" y="974" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Cat 6 Ethernet Cable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="263" y="517" width="210" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Cat 5e Ethernet Cable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="785" y="566" width="219" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Main Speaker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="33" y="329" width="155" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Subwoofer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="546" y="280" width="136" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Satellite Speaker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="523" y="378" width="182" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Main Speaker Cable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="268" y="92" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Subwoofer Cable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="804" y="141" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Satellite Speaker Cable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="781" y="43" width="227" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.45;entryY=1.01;" edge="1" parent="1" source="7" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1.01;entryX=0.24;entryY=0;" edge="1" parent="1" source="15" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.43;entryY=1.01;" edge="1" parent="1" source="8" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="756" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.16;entryY=1.01;" edge="1" parent="1" source="16" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1033" y="610" />
+              <mxPoint x="1058" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.29;entryX=1;entryY=0.33;" edge="1" parent="1" source="9" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1058" y="702" />
+              <mxPoint x="1033" y="531" />
+              <mxPoint x="498" y="531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.51;entryX=1;entryY=0.18;" edge="1" parent="1" source="9" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1058" y="736" />
+              <mxPoint x="1033" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.51;entryX=0.12;entryY=0;" edge="1" parent="1" source="9" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1261" y="736" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.12;entryY=1;" edge="1" parent="1" source="10" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1261" y="868" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.43;entryY=1.01;" edge="1" parent="1" source="17" target="20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.39;entryY=0;" edge="1" parent="1" source="20" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0;entryY=0.51;" edge="1" parent="1" source="18" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="373" />
+              <mxPoint x="756" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=0;entryY=0.5;" edge="1" parent="1" source="18" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="294" />
+              <mxPoint x="756" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
